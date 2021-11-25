@@ -1,0 +1,3 @@
+tca9548a	KEYWORD1
+setup	KEYWORD2
+channel_select	KEYWORD2
