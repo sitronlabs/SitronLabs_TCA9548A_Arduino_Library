@@ -1,6 +1,6 @@
 {
   "name": "SitronLabs_TCA9548A_Arduino_Library",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Arduino library for the Texas Instruments TCA9548A I2C Multiplexer.",
   "keywords": "Sitron Labs, Sitron, Labs, Arduino, Library, I2C, Multiplexer, Texas Instruments, TI, TCA9548A",
   "repository": {
