@@ -8,7 +8,7 @@
  * 
  */
 int tca9548a::setup(TwoWire& i2c_library, const uint8_t i2c_address) {
-    if ((i2c_address & 0x80) != 0x70) {
+    if ((i2c_address & 0xF8) != 0x70) {
         return -EINVAL;
     }
     m_i2c_library = &i2c_library;
